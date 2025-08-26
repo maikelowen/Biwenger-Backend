@@ -1,0 +1,434 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "type": "transfer",
+            "title": "",
+            "content": [
+                {
+                    "player": 17057,
+                    "from": {
+                        "id": 11446725,
+                        "name": "Jordi el niño culo",
+                        "icon": "i/u/11446725.png?v=95"
+                    },
+                    "amount": 11742200
+                }
+            ],
+            "date": 1754403126,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "playerMovements",
+            "title": "",
+            "content": [
+                {
+                    "type": "leave",
+                    "player": 37645,
+                    "from": {
+                        "id": 7,
+                        "name": "Espanyol",
+                        "slug": "espanyol"
+                    }
+                },
+                {
+                    "type": "join",
+                    "player": 32444,
+                    "team": {
+                        "id": 289,
+                        "name": "Girona",
+                        "slug": "girona"
+                    }
+                },
+                {
+                    "type": "join",
+                    "player": 10745,
+                    "team": {
+                        "id": 13,
+                        "name": "Real Sociedad",
+                        "slug": "real-sociedad"
+                    }
+                }
+            ],
+            "date": 1754393657,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "transfer",
+            "title": "",
+            "content": [
+                {
+                    "player": 37709,
+                    "from": {
+                        "id": 11422663,
+                        "name": "Toques BALOMPIE",
+                        "icon": "i/t/87.png"
+                    },
+                    "amount": 153700
+                }
+            ],
+            "date": 1754388433,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "adminText",
+            "title": "¡Hasta 39 premios en la Liga Orange!",
+            "content": "<p><span style=\"font-weight: 400;\">😎 </span><strong>El mejor plan para esta temporada </strong><span style=\"font-weight: 400;\">es ver a mis jugadores del fantasy </span><strong>cada jornada a trav&eacute;s de Orange&nbsp;</strong></p>\r\n<p><span style=\"font-weight: 400;\">⚽️</span><span style=\"font-weight: 400;\"> </span><span style=\"font-weight: 400;\">&iexcl;Participa en la </span><strong>IV edici&oacute;n de la Liga Orange </strong><span style=\"font-weight: 400;\">y podr&aacute;s conseguir un m&oacute;vil o una tablet </span><strong>cada jornada</strong><span style=\"font-weight: 400;\"> adem&aacute;s de un </span><strong>televisor </strong><span style=\"font-weight: 400;\">si eres el campe&oacute;n de la temporada!</span></p>\r\n<p><span style=\"font-weight: 400;\">📲</span><span style=\"font-weight: 400;\"> </span><strong>Entra ya</strong><span style=\"font-weight: 400;\"> y encuentra m&aacute;s informaci&oacute;n <a href=\"https://biwenger.as.com/blog/vuelven-los-premiazos-de-orange-a-biwenger-fantasy/\">en nuestro blog</a></span><span style=\"font-weight: 400;\">&nbsp;📝</span></p>\r\n<p style=\"text-align: center;\">[button url=\"https://biwenger.as.com/join/orange?utm_source=tablon&amp;utm_medium=app&amp;utm_campaign=orange-25-26\" class=\"black\"]&iexcl;Ap&uacute;ntate![/button]</p>\r\n<p style=\"text-align: center;\"><a href=\"https://biwenger.as.com/join/orange?utm_source=tablon&amp;utm_medium=app&amp;utm_campaign=orange-25-26\"><img src=\"https://cdn.biwenger.com/cdn-cgi/image/f=avif/campaigns/2025/football/orange-25-26/tablon.jpg\" alt=\"\" /></a></p>",
+            "date": 1754387580,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "transfer",
+            "title": "",
+            "content": [
+                {
+                    "player": 832,
+                    "from": {
+                        "id": 10352289,
+                        "name": "Rata de cloaca!",
+                        "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                    },
+                    "amount": 450400
+                },
+                {
+                    "player": 37645,
+                    "from": {
+                        "id": 10352289,
+                        "name": "Rata de cloaca!",
+                        "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                    },
+                    "amount": 155500
+                }
+            ],
+            "date": 1754383343,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "market",
+            "title": "",
+            "content": [
+                {
+                    "player": 28103,
+                    "to": {
+                        "id": 11422663,
+                        "name": "Toques BALOMPIE",
+                        "icon": "i/t/87.png"
+                    },
+                    "amount": 3200300,
+                    "bids": [
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "amount": 3198510
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "amount": 3161000
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "amount": 3150010
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "amount": 3150010
+                        }
+                    ]
+                },
+                {
+                    "player": 1249,
+                    "to": {
+                        "id": 10352455,
+                        "name": "Maikelowen",
+                        "icon": "i/u/10352455.png?v=72"
+                    },
+                    "amount": 16699000
+                },
+                {
+                    "player": 34621,
+                    "to": {
+                        "id": 10355059,
+                        "name": "Mágico Gol Norte (Mario Mascota)",
+                        "icon": "i/u/10355059.png?v=75"
+                    },
+                    "amount": 3682100,
+                    "bids": [
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "amount": 3667000
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "amount": 3667000
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "amount": 3630790
+                        }
+                    ]
+                },
+                {
+                    "player": 26566,
+                    "to": {
+                        "id": 11422663,
+                        "name": "Toques BALOMPIE",
+                        "icon": "i/t/87.png"
+                    },
+                    "amount": 3260600,
+                    "bids": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "amount": 3201551
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "amount": 3192770
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "amount": 3170000
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "amount": 3161130
+                        }
+                    ]
+                },
+                {
+                    "player": 34077,
+                    "to": {
+                        "id": 11432654,
+                        "name": "TradeGol",
+                        "icon": "i/u/11432654.png"
+                    },
+                    "amount": 2965000,
+                    "bids": [
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "amount": 2892000
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "amount": 2891940
+                        }
+                    ]
+                },
+                {
+                    "type": "clauseIncrement",
+                    "title": "",
+                    "content": [
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "player": 38245,
+                            "amount": -50000,
+                            "releaseClause": 4040000
+                        }
+                    ],
+                    "date": 1754035212,
+                    "fixed": false,
+                    "author": {
+                        "id": 11446725,
+                        "name": "Jordi el niño culo",
+                        "icon": "i/u/11446725.png?v=95"
+                    }
+                },
+                {
+                    "player": 6828,
+                    "to": {
+                        "id": 11422663,
+                        "name": "Toques BALOMPIE",
+                        "icon": "i/t/87.png"
+                    },
+                    "amount": 2310300,
+                    "bids": [
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "amount": 2120000
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "amount": 2112000
+                        }
+                    ]
+                },
+                {
+                    "player": 17020,
+                    "to": {
+                        "id": 10352289,
+                        "name": "Rata de cloaca!",
+                        "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                    },
+                    "amount": 150000
+                },
+                {
+                    "player": 34127,
+                    "to": {
+                        "id": 12627621,
+                        "name": "Abandono C.F.",
+                        "icon": "i/u/12627621.png"
+                    },
+                    "amount": 350000
+                }
+            ],
+            "date": 1754370227,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "transfer",
+            "title": "",
+            "content": [
+                {
+                    "player": 32440,
+                    "from": {
+                        "id": 10355059,
+                        "name": "Mágico Gol Norte (Mario Mascota)",
+                        "icon": "i/u/10355059.png?v=75"
+                    },
+                    "amount": 7697000
+                }
+            ],
+            "date": 1754357174,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "transfer",
+            "title": "",
+            "content": [
+                {
+                    "player": 1683,
+                    "from": {
+                        "id": 10370174,
+                        "name": "Oski Pellegrini",
+                        "icon": "i/u/10370174.png"
+                    },
+                    "amount": 4361600
+                },
+                {
+                    "player": 25158,
+                    "from": {
+                        "id": 10370174,
+                        "name": "Oski Pellegrini",
+                        "icon": "i/u/10370174.png"
+                    },
+                    "amount": 458300
+                }
+            ],
+            "date": 1754350112,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "transfer",
+            "title": "",
+            "content": [
+                {
+                    "player": 856,
+                    "from": {
+                        "id": 11446725,
+                        "name": "Jordi el niño culo",
+                        "icon": "i/u/11446725.png?v=95"
+                    },
+                    "amount": 2416900
+                },
+                {
+                    "player": 17482,
+                    "from": {
+                        "id": 11446725,
+                        "name": "Jordi el niño culo",
+                        "icon": "i/u/11446725.png?v=95"
+                    },
+                    "amount": 3359300
+                }
+            ],
+            "date": 1754347739,
+            "fixed": false,
+            "author": null
+        },
+        {
+            "type": "playerMovements",
+            "title": "",
+            "content": [
+                {
+                    "type": "join",
+                    "player": 37416,
+                    "team": {
+                        "id": 87,
+                        "name": "Betis",
+                        "slug": "betis"
+                    }
+                }
+            ],
+            "date": 1754325870,
+            "fixed": false,
+            "author": null
+        }
+    ]
+}

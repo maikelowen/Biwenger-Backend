@@ -1,0 +1,90 @@
+[
+  {
+    "id": 11432654,
+    "name": "TradeGol",
+    "teamValue": 57950000,
+    "balance": 5440246,
+    "pujaMaxima": 19927746,
+    "situacion": 13390246
+  },
+  {
+    "id": 10355059,
+    "name": "Mágico Gol Norte (Mario Mascota)",
+    "teamValue": 55140000,
+    "balance": 7969168,
+    "pujaMaxima": 21754168,
+    "situacion": 13109168
+  },
+  {
+    "id": 10352416,
+    "name": "Varguitas plus",
+    "teamValue": 51960000,
+    "balance": 601580,
+    "pujaMaxima": 13591580,
+    "situacion": 2561580
+  },
+  {
+    "id": 10352455,
+    "name": "Maikelowen",
+    "teamValue": 51940000,
+    "balance": 3098240,
+    "pujaMaxima": 16083240,
+    "situacion": 5038240
+  },
+  {
+    "id": 11446725,
+    "name": "Jordi el niño culo",
+    "teamValue": 56000000,
+    "balance": 3582912,
+    "pujaMaxima": 17582912,
+    "situacion": 9582912
+  },
+  {
+    "id": 10352289,
+    "name": "Rata de cloaca!",
+    "teamValue": 50290000,
+    "balance": 2061540,
+    "pujaMaxima": 14634040,
+    "situacion": 2351540
+  },
+  {
+    "id": 10368073,
+    "name": "Los Mijitas",
+    "teamValue": 47920000,
+    "balance": 3754201,
+    "pujaMaxima": 15734201,
+    "situacion": 1674201
+  },
+  {
+    "id": 11432368,
+    "name": "Alguien que me diga como va esto",
+    "teamValue": 40790000,
+    "balance": 9675320,
+    "pujaMaxima": 19872820,
+    "situacion": 465320
+  },
+  {
+    "id": 10370174,
+    "name": "Oski Pellegrini",
+    "teamValue": 53550000,
+    "balance": -1471733,
+    "pujaMaxima": 11915767,
+    "situacion": 2078267
+  },
+  {
+    "id": 12627621,
+    "name": "Abandono C.F.",
+    "teamValue": 38960000,
+    "balance": 10614490,
+    "pujaMaxima": 20354490,
+    "situacion": -425510
+  },
+  {
+    "id": 11422663,
+    "name": "Toques BALOMPIE",
+    "teamValue": 50290000,
+    "balance": 758489,
+    "pujaMaxima": 13330989,
+    "situacion": 1048489
+  }
+]
