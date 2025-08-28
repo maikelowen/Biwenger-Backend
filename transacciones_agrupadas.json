@@ -1,8 +1,488 @@
 {
     "10352289": {
-        "totalIngresos": 67638200,
-        "totalGastos": 115576660,
+        "totalIngresos": 72228200,
+        "totalGastos": 120258220,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2597,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 5000000
+                    },
+                    {
+                        "player": 33516,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 4448500
+                    },
+                    {
+                        "player": 8670,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 5730000
+                    },
+                    {
+                        "player": 31494,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 150000
+                    },
+                    {
+                        "player": 24474,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2713200
+                    }
+                ],
+                "date": 1756309129,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37526,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 186200
+                    },
+                    {
+                        "player": 9068,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 157400
+                    }
+                ],
+                "date": 1756272536,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1908,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2525252
+                    },
+                    {
+                        "player": 37726,
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 1960900,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 1909000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 1882520
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 1864380
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 1846000
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 1839000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1777777
+                            }
+                        ]
+                    },
+                    {
+                        "player": 35765,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 229990,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 193000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 190001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 26930,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 18999000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 17862010
+                            }
+                        ]
+                    },
+                    {
+                        "player": 34802,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2311540,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2291000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2277227
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33970,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 4001999,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3535353
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3439000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3336500
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3327580
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3222570
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1874,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2370020
+                    }
+                ],
+                "date": 1756270982,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2595,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 418200
+                    }
+                ],
+                "date": 1756217830,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -10853,9 +11333,404 @@
         ]
     },
     "10352416": {
-        "totalIngresos": 33447500,
-        "totalGastos": 82845920,
+        "totalIngresos": 38833000,
+        "totalGastos": 89669550,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31020,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 3876786,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3870000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3733680
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3699000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3636363
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3625400
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3562100
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3490000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12596,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 2788000
+                    },
+                    {
+                        "player": 21068,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 4035630,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 4000070
+                            },
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 3995000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3945000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3890000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3829000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3777777
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3732010
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3729000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3601515
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1876,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 372010,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 370000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1871,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 183000
+                    },
+                    {
+                        "player": 38361,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 2322222
+                    },
+                    {
+                        "player": 21033,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 810011
+                    },
+                    {
+                        "player": 26879,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 1520001
+                    }
+                ],
+                "date": 1756357426,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 12221,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 4510500
+                    }
+                ],
+                "date": 1756240165,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -17291,9 +18166,236 @@
         ]
     },
     "10352455": {
-        "totalIngresos": 93284700,
-        "totalGastos": 140186460,
+        "totalIngresos": 98938200,
+        "totalGastos": 145186460,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2597,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 5000000
+                    },
+                    {
+                        "player": 33516,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 4448500
+                    },
+                    {
+                        "player": 8670,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 5730000
+                    },
+                    {
+                        "player": 31494,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 150000
+                    },
+                    {
+                        "player": 24474,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2713200
+                    }
+                ],
+                "date": 1756309129,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -26478,9 +27580,405 @@
         ]
     },
     "10355059": {
-        "totalIngresos": 48056600,
-        "totalGastos": 90087432,
+        "totalIngresos": 57135800,
+        "totalGastos": 91979443,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31020,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 3876786,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3870000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3733680
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3699000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3636363
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3625400
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3562100
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3490000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12596,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 2788000
+                    },
+                    {
+                        "player": 21068,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 4035630,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 4000070
+                            },
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 3995000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3945000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3890000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3829000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3777777
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3732010
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3729000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3601515
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1876,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 372010,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 370000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1871,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 183000
+                    },
+                    {
+                        "player": 38361,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 2322222
+                    },
+                    {
+                        "player": 21033,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 810011
+                    },
+                    {
+                        "player": 26879,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 1520001
+                    }
+                ],
+                "date": 1756357426,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1523,
+                        "from": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 7904200
+                    }
+                ],
+                "date": 1756248464,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -36058,9 +37556,387 @@
         ]
     },
     "10368073": {
-        "totalIngresos": 35888400,
-        "totalGastos": 82134199,
+        "totalIngresos": 37258400,
+        "totalGastos": 85266432,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31020,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 3876786,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3870000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3733680
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3699000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3636363
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3625400
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3562100
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3490000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12596,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 2788000
+                    },
+                    {
+                        "player": 21068,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 4035630,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 4000070
+                            },
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 3995000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3945000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3890000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3829000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3777777
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3732010
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3729000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3601515
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1876,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 372010,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 370000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1871,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 183000
+                    },
+                    {
+                        "player": 38361,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 2322222
+                    },
+                    {
+                        "player": 21033,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 810011
+                    },
+                    {
+                        "player": 26879,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 1520001
+                    }
+                ],
+                "date": 1756357426,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -43217,9 +45093,682 @@
         ]
     },
     "10370174": {
-        "totalIngresos": 116465502,
-        "totalGastos": 167937235,
+        "totalIngresos": 130363902,
+        "totalGastos": 176375487,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31020,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 3876786,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3870000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3733680
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3699000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3636363
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3625400
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3562100
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3490000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12596,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 2788000
+                    },
+                    {
+                        "player": 21068,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 4035630,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 4000070
+                            },
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 3995000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3945000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3890000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3829000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3777777
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3732010
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3729000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3601515
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1876,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 372010,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 370000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1871,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 183000
+                    },
+                    {
+                        "player": 38361,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 2322222
+                    },
+                    {
+                        "player": 21033,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 810011
+                    },
+                    {
+                        "player": 26879,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 1520001
+                    }
+                ],
+                "date": 1756357426,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 18173,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 5982400
+                    }
+                ],
+                "date": 1756319043,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2597,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 5000000
+                    },
+                    {
+                        "player": 33516,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 4448500
+                    },
+                    {
+                        "player": 8670,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 5730000
+                    },
+                    {
+                        "player": 31494,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 150000
+                    },
+                    {
+                        "player": 24474,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2713200
+                    }
+                ],
+                "date": 1756309129,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1908,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2525252
+                    },
+                    {
+                        "player": 37726,
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 1960900,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 1909000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 1882520
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 1864380
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 1846000
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 1839000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1777777
+                            }
+                        ]
+                    },
+                    {
+                        "player": 35765,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 229990,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 193000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 190001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 26930,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 18999000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 17862010
+                            }
+                        ]
+                    },
+                    {
+                        "player": 34802,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2311540,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2291000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2277227
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33970,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 4001999,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3535353
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3439000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3336500
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3327580
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3222570
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1874,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2370020
+                    }
+                ],
+                "date": 1756270982,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -43660,6 +46209,33 @@
                     }
                 ],
                 "date": 1755902807,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "exchange",
+                "title": "",
+                "content": {
+                    "from": {
+                        "id": 11432654,
+                        "name": "TradeGol",
+                        "icon": "i/u/11432654.png"
+                    },
+                    "to": {
+                        "id": 10370174,
+                        "name": "Oski Pellegrini",
+                        "icon": "i/u/10370174.png"
+                    },
+                    "amount": 6666000,
+                    "offeredPlayers": [
+                        31494
+                    ],
+                    "requestedAmount": 0,
+                    "requestedPlayers": [
+                        10040
+                    ]
+                },
+                "date": 1755868340,
                 "fixed": false,
                 "author": null
             },
@@ -52985,9 +55561,393 @@
         ]
     },
     "11422663": {
-        "totalIngresos": 55757000,
-        "totalGastos": 104998511,
+        "totalIngresos": 57332000,
+        "totalGastos": 106959411,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31692,
+                        "from": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 505000
+                    }
+                ],
+                "date": 1756303970,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1908,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2525252
+                    },
+                    {
+                        "player": 37726,
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 1960900,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 1909000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 1882520
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 1864380
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 1846000
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 1839000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1777777
+                            }
+                        ]
+                    },
+                    {
+                        "player": 35765,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 229990,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 193000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 190001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 26930,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 18999000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 17862010
+                            }
+                        ]
+                    },
+                    {
+                        "player": 34802,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2311540,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2291000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2277227
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33970,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 4001999,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3535353
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3439000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3336500
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3327580
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3222570
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1874,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2370020
+                    }
+                ],
+                "date": 1756270982,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -59645,9 +62605,467 @@
         ]
     },
     "11432368": {
-        "totalIngresos": 36757700,
-        "totalGastos": 77082380,
+        "totalIngresos": 48602700,
+        "totalGastos": 97131380,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2224,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 900000
+                    }
+                ],
+                "date": 1756310241,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2597,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 5000000
+                    },
+                    {
+                        "player": 33516,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 4448500
+                    },
+                    {
+                        "player": 8670,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 5730000
+                    },
+                    {
+                        "player": 31494,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 150000
+                    },
+                    {
+                        "player": 24474,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2713200
+                    }
+                ],
+                "date": 1756309129,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1908,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2525252
+                    },
+                    {
+                        "player": 37726,
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 1960900,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 1909000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 1882520
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 1864380
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 1846000
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 1839000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1777777
+                            }
+                        ]
+                    },
+                    {
+                        "player": 35765,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 229990,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 193000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 190001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 26930,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 18999000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 17862010
+                            }
+                        ]
+                    },
+                    {
+                        "player": 34802,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2311540,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2291000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2277227
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33970,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 4001999,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3535353
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3439000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3336500
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3327580
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3222570
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1874,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2370020
+                    }
+                ],
+                "date": 1756270982,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -65714,9 +69132,405 @@
         ]
     },
     "11432654": {
-        "totalIngresos": 34755400,
-        "totalGastos": 79315154,
+        "totalIngresos": 37131100,
+        "totalGastos": 89857940,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31020,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 3876786,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3870000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3733680
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3699000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3636363
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3625400
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3562100
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3490000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12596,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 2788000
+                    },
+                    {
+                        "player": 21068,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus"
+                        },
+                        "amount": 4035630,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 4000070
+                            },
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 3995000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3945000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3890000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3829000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3777777
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3732010
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 3729000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3601515
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1876,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 372010,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 370000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1871,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 183000
+                    },
+                    {
+                        "player": 38361,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 2322222
+                    },
+                    {
+                        "player": 21033,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 810011
+                    },
+                    {
+                        "player": 26879,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 1520001
+                    }
+                ],
+                "date": 1756357426,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 19285,
+                        "from": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1140700
+                    }
+                ],
+                "date": 1756336116,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -65861,6 +69675,33 @@
                     }
                 ],
                 "date": 1755925425,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "exchange",
+                "title": "",
+                "content": {
+                    "from": {
+                        "id": 11432654,
+                        "name": "TradeGol",
+                        "icon": "i/u/11432654.png"
+                    },
+                    "to": {
+                        "id": 10370174,
+                        "name": "Oski Pellegrini",
+                        "icon": "i/u/10370174.png"
+                    },
+                    "amount": 6666000,
+                    "offeredPlayers": [
+                        31494
+                    ],
+                    "requestedAmount": 0,
+                    "requestedPlayers": [
+                        10040
+                    ]
+                },
+                "date": 1755868340,
                 "fixed": false,
                 "author": null
             },
@@ -73392,9 +77233,398 @@
         ]
     },
     "11446725": {
-        "totalIngresos": 78806150,
-        "totalGastos": 125223238,
+        "totalIngresos": 80956150,
+        "totalGastos": 129455227,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2224,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 900000
+                    }
+                ],
+                "date": 1756310241,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1908,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2525252
+                    },
+                    {
+                        "player": 37726,
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 1960900,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 1909000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 1882520
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 1864380
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 1846000
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 1839000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1777777
+                            }
+                        ]
+                    },
+                    {
+                        "player": 35765,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 229990,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 193000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 190001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 26930,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 18999000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 17862010
+                            }
+                        ]
+                    },
+                    {
+                        "player": 34802,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2311540,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2291000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2277227
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33970,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 4001999,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3535353
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3439000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3336500
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus"
+                                },
+                                "amount": 3327580
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3222570
+                            }
+                        ]
+                    },
+                    {
+                        "player": 1874,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 2370020
+                    }
+                ],
+                "date": 1756270982,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -81156,9 +85386,167 @@
         ]
     },
     "12627621": {
-        "totalIngresos": 28518600,
+        "totalIngresos": 29543600,
         "totalGastos": 67904110,
         "transacciones": [
+            {
+                "type": "roundFinished",
+                "title": "",
+                "content": {
+                    "round": {
+                        "id": 4485,
+                        "name": "Round 2"
+                    },
+                    "scoreID": 100,
+                    "results": [
+                        {
+                            "user": {
+                                "id": 10368073,
+                                "name": "Los Mijitas",
+                                "icon": "i/u/10368073.png?v=94"
+                            },
+                            "points": 58,
+                            "bonus": 1370000,
+                            "reason": {
+                                "bonusPoint": 870000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11446725,
+                                "name": "Jordi el niño culo",
+                                "icon": "i/u/11446725.png?v=95"
+                            },
+                            "points": 50,
+                            "bonus": 1250000,
+                            "reason": {
+                                "bonusPoint": 750000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432654,
+                                "name": "TradeGol",
+                                "icon": "i/u/11432654.png"
+                            },
+                            "points": 49,
+                            "bonus": 1235000,
+                            "reason": {
+                                "bonusPoint": 735000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352455,
+                                "name": "Maikelowen",
+                                "icon": "i/u/10352455.png?v=72"
+                            },
+                            "points": 47,
+                            "bonus": 1205000,
+                            "reason": {
+                                "bonusPoint": 705000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10355059,
+                                "name": "Mágico Gol Norte (Mario Mascota)",
+                                "icon": "i/u/10355059.png?v=75"
+                            },
+                            "points": 45,
+                            "bonus": 1175000,
+                            "reason": {
+                                "bonusPoint": 675000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352289,
+                                "name": "Rata de cloaca!",
+                                "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11432368,
+                                "name": "Alguien que me diga como va esto",
+                                "icon": "i/u/11432368.png"
+                            },
+                            "points": 41,
+                            "bonus": 1115000,
+                            "reason": {
+                                "bonusPoint": 615000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10370174,
+                                "name": "Oski Pellegrini",
+                                "icon": "i/u/10370174.png"
+                            },
+                            "points": 40,
+                            "bonus": 1100000,
+                            "reason": {
+                                "bonusPoint": 600000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 11422663,
+                                "name": "Toques BALOMPIE",
+                                "icon": "i/t/87.png"
+                            },
+                            "points": 38,
+                            "bonus": 1070000,
+                            "reason": {
+                                "bonusPoint": 570000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 12627621,
+                                "name": "Abandono C.F.",
+                                "icon": "i/u/12627621.png"
+                            },
+                            "points": 35,
+                            "bonus": 1025000,
+                            "reason": {
+                                "bonusPoint": 525000,
+                                "bonusFixed": 500000
+                            }
+                        },
+                        {
+                            "user": {
+                                "id": 10352416,
+                                "name": "Varguitas plus"
+                            },
+                            "points": 25,
+                            "bonus": 875000,
+                            "reason": {
+                                "bonusPoint": 375000,
+                                "bonusFixed": 500000
+                            }
+                        }
+                    ]
+                },
+                "date": 1756220589,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "roundFinished",
                 "title": "",

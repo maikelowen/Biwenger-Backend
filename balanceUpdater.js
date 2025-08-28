@@ -23,7 +23,7 @@ export class BalanceUpdater {
         };
         this.inputFile = inputFile;
         this.outputFile = outputFile;
-        this.allowedTypes = new Set(["transfer", "market", "clauseIncrement", "roundFinished", "adminTransfer"]);
+        this.allowedTypes = new Set(["transfer", "market", "clauseIncrement", "roundFinished", "adminTransfer", "exchange"]);
     }
 
     /** Carga los IDs de los equipos desde el fichero JSON de entrada. */
@@ -144,6 +144,22 @@ export class BalanceUpdater {
                             summaryData[item.from.id].totalIngresos += item.amount;
                             usersInThisTx.add(item.from.id);
                         }
+                    }
+                    break;
+
+                case 'exchange':
+                    const exchangeContent = tx.content;
+                    // Gasto para el usuario 'from' que paga el 'amount'
+                    if (exchangeContent.from?.id && teamIds.has(exchangeContent.from.id)) {
+                        const fromId = exchangeContent.from.id;
+                        summaryData[fromId].totalGastos += exchangeContent.amount;
+                        usersInThisTx.add(fromId);
+                    }
+                    // Ingreso para el usuario 'to' que recibe el 'amount'
+                    if (exchangeContent.to?.id && teamIds.has(exchangeContent.to.id)) {
+                        const toId = exchangeContent.to.id;
+                        summaryData[toId].totalIngresos += exchangeContent.amount;
+                        usersInThisTx.add(toId);
                     }
                     break;
 
