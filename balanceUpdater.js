@@ -23,7 +23,7 @@ export class BalanceUpdater {
         };
         this.inputFile = inputFile;
         this.outputFile = outputFile;
-        this.allowedTypes = new Set(["transfer", "market", "clauseIncrement", "roundFinished", "adminTransfer", "exchange"]);
+        this.allowedTypes = new Set(["transfer", "market", "clauseIncrement", "roundFinished", "adminTransfer", "exchange", "bonus"]);
     }
 
     /** Carga los IDs de los equipos desde el fichero JSON de entrada. */
@@ -89,9 +89,10 @@ export class BalanceUpdater {
      * @returns {Object} Un objeto con el resumen financiero y las transacciones de cada equipo.
      */
     _processAndSummarizeTransactions(transactions, teamIds) {
-        console.log("Procesando y resumiendo transacciones por usuario...");
         const summaryData = {};
-        // Inicializamos la estructura para cada equipo
+        const roundFinishedTransactions = {}; // Para agrupar transacciones de jornada por su ID
+
+        console.log("Procesando transacciones generales...");
         for (const teamId of teamIds) {
             summaryData[teamId] = {
                 totalIngresos: 0,
@@ -100,8 +101,21 @@ export class BalanceUpdater {
             };
         }
 
+        // 1. Primera pasada: Procesar todo excepto 'roundFinished' y agruparlas.
         for (const tx of transactions) {
             if (!this.allowedTypes.has(tx.type) || !tx.content) continue;
+
+            // Si es una transacción de fin de jornada, la agrupamos para procesarla después.
+            if (tx.type === 'roundFinished') {
+                const roundId = tx.content.round?.id;
+                if (roundId) {
+                    if (!roundFinishedTransactions[roundId]) {
+                        roundFinishedTransactions[roundId] = [];
+                    }
+                    roundFinishedTransactions[roundId].push(tx);
+                }
+                continue; // Saltamos al siguiente elemento del bucle
+            }
 
             // Usamos un Set para no añadir la misma transacción varias veces a un usuario
             const usersInThisTx = new Set();
@@ -163,6 +177,22 @@ export class BalanceUpdater {
                     }
                     break;
 
+                case 'bonus':
+                    for (const item of tx.content) {
+                        if (item.user?.id && teamIds.has(item.user.id)) {
+                            const userId = item.user.id;
+                            const amount = item.amount;
+                            // Si el 'amount' es positivo es un ingreso, si es negativo es un gasto.
+                            if (amount > 0) {
+                                summaryData[userId].totalIngresos += amount;
+                            } else {
+                                summaryData[userId].totalGastos += Math.abs(amount);
+                            }
+                            usersInThisTx.add(userId);
+                        }
+                    }
+                    break;
+
                 case 'clauseIncrement':
                     for (const item of tx.content) {
                         if (item.user?.id && teamIds.has(item.user.id)) {
@@ -175,16 +205,6 @@ export class BalanceUpdater {
                     }
                     break;
 
-                case 'roundFinished':
-                    // Los bonus de la jornada son ingresos para los usuarios.
-                    for (const result of tx.content.results) {
-                        if (result.user?.id && teamIds.has(result.user.id)) {
-                            const userId = result.user.id;
-                            summaryData[userId].totalIngresos += result.bonus;
-                            usersInThisTx.add(userId);
-                        }
-                    }
-                    break;
             }
 
             // Añadimos la transacción completa a la lista de cada usuario involucrado
@@ -192,6 +212,38 @@ export class BalanceUpdater {
                 summaryData[userId].transacciones.push(tx);
             }
         }
+
+        // 2. Segunda pasada: Deduplicar y procesar solo las transacciones 'roundFinished' definitivas.
+        console.log("Procesando y deduplicando transacciones de fin de jornada...");
+        for (const roundId in roundFinishedTransactions) {
+            const roundTxs = roundFinishedTransactions[roundId];
+            if (roundTxs.length === 0) continue;
+
+            // Encontrar la transacción más reciente para esta jornada (la definitiva)
+            const definitiveTx = roundTxs.reduce((latest, current) => 
+                current.date > latest.date ? current : latest
+            );
+
+            const usersInThisTx = new Set();
+            // Aplicar bonus y añadir la transacción definitiva a los usuarios correspondientes
+            for (const result of definitiveTx.content.results) {
+                if (result.user?.id && teamIds.has(result.user.id)) {
+                    const userId = result.user.id;
+                    summaryData[userId].totalIngresos += result.bonus;
+                    usersInThisTx.add(userId);
+                }
+            }
+
+            for (const userId of usersInThisTx) {
+                summaryData[userId].transacciones.push(definitiveTx);
+            }
+        }
+
+        // 3. Ordenar todas las transacciones por fecha para cada usuario
+        for (const userId in summaryData) {
+            summaryData[userId].transacciones.sort((a, b) => b.date - a.date);
+        }
+
         return summaryData;
     }
 

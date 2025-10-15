@@ -2,6 +2,7 @@ import path from 'path';
 import fs from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { BalanceUpdater } from './balanceUpdater.js';
+import { TransactionTypeAnalyzer } from './transactionAnalyzer.js';
 import login from './login.js';
 import getTeams from './getTeams.js';
 import updateTeams from './updateTeams.js';
@@ -17,14 +18,21 @@ async function main() {
         console.log('Iniciando sesión en Biwenger...');
         const { token } = await login();
 
-        // 2. Obtener la lista de equipos actualizada y guardarla
+        // 2. Ejecutar el analizador para verificar los tipos de transacción
+        // console.log('\nIniciando análisis de tipos de transacción...');
+        // const analyzer = new TransactionTypeAnalyzer(LEAGUE_ID, USER_ID_IN_LEAGUE, token);
+        // await analyzer.run();
+        // El script continuará después de mostrar el informe del analizador.
+        // Si se encuentran tipos no gestionados, el usuario lo verá en la consola.
+
+        // 3. Obtener la lista de equipos actualizada y guardarla
         console.log('Obteniendo la lista de equipos actualizada...');
         const teams = await getTeams({ token });
         const TEAMS_JSON_PATH = path.join(__dirname, 'equipos.json');
         await fs.writeFile(TEAMS_JSON_PATH, JSON.stringify(teams, null, 2), 'utf-8');
         console.log(`✅ Lista de equipos guardada en '${TEAMS_JSON_PATH}'`);
 
-        // 3. Ejecutar el actualizador de balances con el token nuevo
+        // 4. Ejecutar el actualizador de balances con el token nuevo
         const TRANSACTIONS_JSON_PATH = path.join(__dirname, 'transacciones_agrupadas.json');
         console.log('\nIniciando proceso de obtención de transacciones...');
 
@@ -38,7 +46,7 @@ async function main() {
 
         await updater.run();
 
-        // 4. Actualizar los balances en equipos.json usando los resultados
+        // 5. Actualizar los balances en equipos.json usando los resultados
         await updateTeams(TEAMS_JSON_PATH, TRANSACTIONS_JSON_PATH);
 
         console.log('\n🏁 Proceso completado.');
