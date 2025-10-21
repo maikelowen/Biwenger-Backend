@@ -19,9 +19,9 @@ async function main() {
         const { token } = await login();
 
         // 2. Ejecutar el analizador para verificar los tipos de transacción
-        // console.log('\nIniciando análisis de tipos de transacción...');
-        // const analyzer = new TransactionTypeAnalyzer(LEAGUE_ID, USER_ID_IN_LEAGUE, token);
-        // await analyzer.run();
+        console.log('\nIniciando análisis de tipos de transacción...');
+        const analyzer = new TransactionTypeAnalyzer(LEAGUE_ID, USER_ID_IN_LEAGUE, token);
+        await analyzer.run();
         // El script continuará después de mostrar el informe del analizador.
         // Si se encuentran tipos no gestionados, el usuario lo verá en la consola.
 

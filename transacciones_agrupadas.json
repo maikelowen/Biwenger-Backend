@@ -1,8 +1,229 @@
 {
     "10352289": {
-        "totalIngresos": 143786000,
-        "totalGastos": 193821780,
+        "totalIngresos": 145263200,
+        "totalGastos": 197187330,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37600,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 3301112,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3222222
+                            }
+                        ]
+                    },
+                    {
+                        "player": 29185,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 805111,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 720050
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 712780
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 662100
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 646000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 18178,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 2914000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 2901000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2889000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 2802100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38959,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 3365550,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3327130
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31027,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 17091090,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 16820000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 16543210
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 16299000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 15526450
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12526,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 9793000
+                    },
+                    {
+                        "player": 1125,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 3339000
+                    },
+                    {
+                        "player": 1679,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1999990
+                    }
+                ],
+                "date": 1761022947,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2368,
+                        "from": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 1477200
+                    }
+                ],
+                "date": 1760701158,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -16400,9 +16621,567 @@
         ]
     },
     "10352416": {
-        "totalIngresos": 167674700,
-        "totalGastos": 204540840,
+        "totalIngresos": 190276800,
+        "totalGastos": 225130470,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38164,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 7457900
+                    },
+                    {
+                        "player": 24326,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 5694100
+                    }
+                ],
+                "date": 1761033556,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 9047,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 4307240,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4299999
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4004004
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3899000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3852100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3846421
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3830000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3735000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3727270
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31267,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1523000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1515151
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 1502100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 37467,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 716100,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 512790
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 231191
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 222222
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 188350
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 185001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33839,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1112000
+                    },
+                    {
+                        "player": 2577,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 150000
+                    }
+                ],
+                "date": 1760936781,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 30505,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1366000
+                    },
+                    {
+                        "player": 25396,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 923650
+                    },
+                    {
+                        "player": 33531,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 853750
+                    }
+                ],
+                "date": 1760850156,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38517,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 5652000,
+                        "type": "clause"
+                    }
+                ],
+                "date": 1760740458,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31043,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 2021000
+                    }
+                ],
+                "date": 1760678056,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2600,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 7702080,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 7029000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 6864200
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 6801081
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 6767676
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31321,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 1380000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1283000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 1101110
+                            }
+                        ]
+                    },
+                    {
+                        "player": 32114,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 5596560,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 4979000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4949494
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4939000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 4919000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 4912100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 4888888
+                            },
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 4875700
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38071,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2862000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2739000
+                            }
+                        ]
+                    }
+                ],
+                "date": 1760677380,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1844,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 1777100
+                    }
+                ],
+                "date": 1760597579,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38116,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1711100
+                    },
+                    {
+                        "player": 33694,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 4910000
+                    },
+                    {
+                        "player": 37898,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 906000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 900600
+                            }
+                        ]
+                    },
+                    {
+                        "player": 9557,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 303000
+                    },
+                    {
+                        "player": 31043,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 2130000
+                    },
+                    {
+                        "player": 29908,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1276000
+                    },
+                    {
+                        "player": 38854,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1861100
+                    }
+                ],
+                "date": 1760590945,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -30147,9 +30926,63 @@
         ]
     },
     "10352455": {
-        "totalIngresos": 194324100,
+        "totalIngresos": 202730300,
         "totalGastos": 241138509,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31026,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 2325700
+                    }
+                ],
+                "date": 1760909901,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2184,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 3391300
+                    }
+                ],
+                "date": 1760904877,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 19485,
+                        "from": {
+                            "id": 10352455,
+                            "name": "Maikelowen",
+                            "icon": "i/u/10352455.png?v=72"
+                        },
+                        "amount": 2689200
+                    }
+                ],
+                "date": 1760719005,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -44862,9 +45695,276 @@
         ]
     },
     "10355059": {
-        "totalIngresos": 154658300,
-        "totalGastos": 200485834,
+        "totalIngresos": 157137900,
+        "totalGastos": 202509934,
         "transacciones": [
+            {
+                "type": "clauseIncrement",
+                "title": "",
+                "content": [
+                    {
+                        "user": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "player": 19577,
+                        "amount": 500000,
+                        "releaseClause": 41000685
+                    }
+                ],
+                "date": 1761031771,
+                "fixed": false,
+                "author": {
+                    "id": 10355059,
+                    "name": "Mágico Gol Norte (Mario Mascota)",
+                    "icon": "i/u/10355059.png?v=75"
+                }
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 9047,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 4307240,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4299999
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4004004
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3899000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3852100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3846421
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3830000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3735000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3727270
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31267,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1523000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1515151
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 1502100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 37467,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 716100,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 512790
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 231191
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 222222
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 188350
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 185001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33839,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1112000
+                    },
+                    {
+                        "player": 2577,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 150000
+                    }
+                ],
+                "date": 1760936781,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37455,
+                        "from": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 879600
+                    }
+                ],
+                "date": 1760859392,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "clauseIncrement",
+                "title": "",
+                "content": [
+                    {
+                        "user": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "player": 19577,
+                        "amount": 808000,
+                        "releaseClause": 40000685
+                    }
+                ],
+                "date": 1760714048,
+                "fixed": false,
+                "author": {
+                    "id": 10355059,
+                    "name": "Mágico Gol Norte (Mario Mascota)",
+                    "icon": "i/u/10355059.png?v=75"
+                }
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38318,
+                        "from": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1600000
+                    }
+                ],
+                "date": 1760566566,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -60328,9 +61428,298 @@
         ]
     },
     "10368073": {
-        "totalIngresos": 136095300,
-        "totalGastos": 186912460,
+        "totalIngresos": 148144900,
+        "totalGastos": 191428684,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37600,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 3301112,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3222222
+                            }
+                        ]
+                    },
+                    {
+                        "player": 29185,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 805111,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 720050
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 712780
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 662100
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 646000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 18178,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 2914000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 2901000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2889000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 2802100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38959,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 3365550,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3327130
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31027,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 17091090,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 16820000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 16543210
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 16299000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 15526450
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12526,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 9793000
+                    },
+                    {
+                        "player": 1125,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 3339000
+                    },
+                    {
+                        "player": 1679,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1999990
+                    }
+                ],
+                "date": 1761022947,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "clauseIncrement",
+                "title": "",
+                "content": [
+                    {
+                        "user": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "player": 1676,
+                        "amount": 250000,
+                        "releaseClause": 2925000
+                    }
+                ],
+                "date": 1760825040,
+                "fixed": false,
+                "author": {
+                    "id": 10368073,
+                    "name": "Los Mijitas",
+                    "icon": "i/u/10368073.png?v=94"
+                }
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38142,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 160001
+                    },
+                    {
+                        "player": 34077,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1200050
+                    }
+                ],
+                "date": 1760763705,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 12526,
+                        "from": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 10180500
+                    }
+                ],
+                "date": 1760717083,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 1462,
+                        "from": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 1869100
+                    }
+                ],
+                "date": 1760592456,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -73807,9 +75196,755 @@
         ]
     },
     "10370174": {
-        "totalIngresos": 264095987,
-        "totalGastos": 301098510,
+        "totalIngresos": 277007587,
+        "totalGastos": 315318510,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37600,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 3301112,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3222222
+                            }
+                        ]
+                    },
+                    {
+                        "player": 29185,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 805111,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 720050
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 712780
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 662100
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 646000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 18178,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 2914000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 2901000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2889000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 2802100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38959,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 3365550,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3327130
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31027,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 17091090,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 16820000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 16543210
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 16299000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 15526450
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12526,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 9793000
+                    },
+                    {
+                        "player": 1125,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 3339000
+                    },
+                    {
+                        "player": 1679,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1999990
+                    }
+                ],
+                "date": 1761022947,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37450,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1163600
+                    },
+                    {
+                        "player": 38308,
+                        "from": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 2307500
+                    }
+                ],
+                "date": 1761006043,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37460,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1496600
+                    }
+                ],
+                "date": 1761004957,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 9047,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 4307240,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4299999
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4004004
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3899000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3852100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3846421
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3830000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3735000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3727270
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31267,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1523000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1515151
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 1502100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 37467,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 716100,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 512790
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 231191
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 222222
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 188350
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 185001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33839,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1112000
+                    },
+                    {
+                        "player": 2577,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 150000
+                    }
+                ],
+                "date": 1760936781,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 18945,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 7953700
+                    }
+                ],
+                "date": 1760884110,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38245,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1190300
+                    },
+                    {
+                        "player": 9557,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 309800
+                    }
+                ],
+                "date": 1760849127,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2600,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 7702080,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 7029000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 6864200
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 6801081
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 6767676
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31321,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 1380000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1283000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 1101110
+                            }
+                        ]
+                    },
+                    {
+                        "player": 32114,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 5596560,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 4979000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4949494
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4939000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 4919000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 4912100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 4888888
+                            },
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 4875700
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38071,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2862000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2739000
+                            }
+                        ]
+                    }
+                ],
+                "date": 1760677380,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 34080,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 797600
+                    }
+                ],
+                "date": 1760667267,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38116,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1711100
+                    },
+                    {
+                        "player": 33694,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 4910000
+                    },
+                    {
+                        "player": 37898,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 906000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 900600
+                            }
+                        ]
+                    },
+                    {
+                        "player": 9557,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 303000
+                    },
+                    {
+                        "player": 31043,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 2130000
+                    },
+                    {
+                        "player": 29908,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1276000
+                    },
+                    {
+                        "player": 38854,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1861100
+                    }
+                ],
+                "date": 1760590945,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -90386,8 +92521,32 @@
     },
     "11422663": {
         "totalIngresos": 140072900,
-        "totalGastos": 188869777,
+        "totalGastos": 194521777,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38517,
+                        "from": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "to": {
+                            "id": 11422663,
+                            "name": "Toques BALOMPIE",
+                            "icon": "i/t/87.png"
+                        },
+                        "amount": 5652000,
+                        "type": "clause"
+                    }
+                ],
+                "date": 1760740458,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "market",
                 "title": "",
@@ -102414,9 +104573,530 @@
         ]
     },
     "11432368": {
-        "totalIngresos": 122294000,
-        "totalGastos": 164085160,
+        "totalIngresos": 125501200,
+        "totalGastos": 173289160,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 31321,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 1013100
+                    }
+                ],
+                "date": 1761032636,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37600,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 3301112,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3222222
+                            }
+                        ]
+                    },
+                    {
+                        "player": 29185,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 805111,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 720050
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 712780
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 662100
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 646000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 18178,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 2914000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 2901000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2889000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 2802100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38959,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 3365550,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3327130
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31027,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 17091090,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 16820000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 16543210
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 16299000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 15526450
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12526,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 9793000
+                    },
+                    {
+                        "player": 1125,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 3339000
+                    },
+                    {
+                        "player": 1679,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1999990
+                    }
+                ],
+                "date": 1761022947,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 9763,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 537100
+                    }
+                ],
+                "date": 1760857466,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2600,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 7702080,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 7029000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 6864200
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 6801081
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 6767676
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31321,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 1380000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1283000
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 1101110
+                            }
+                        ]
+                    },
+                    {
+                        "player": 32114,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 5596560,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 12627621,
+                                    "name": "Abandono C.F.",
+                                    "icon": "i/u/12627621.png"
+                                },
+                                "amount": 4979000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4949494
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4939000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 4919000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 4912100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 4888888
+                            },
+                            {
+                                "user": {
+                                    "id": 11422663,
+                                    "name": "Toques BALOMPIE",
+                                    "icon": "i/t/87.png"
+                                },
+                                "amount": 4875700
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38071,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 2862000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2739000
+                            }
+                        ]
+                    }
+                ],
+                "date": 1760677380,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 11045,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 1501600
+                    },
+                    {
+                        "player": 23572,
+                        "from": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 155400
+                    }
+                ],
+                "date": 1760595966,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38116,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1711100
+                    },
+                    {
+                        "player": 33694,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 4910000
+                    },
+                    {
+                        "player": 37898,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 906000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 900600
+                            }
+                        ]
+                    },
+                    {
+                        "player": 9557,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 303000
+                    },
+                    {
+                        "player": 31043,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 2130000
+                    },
+                    {
+                        "player": 29908,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1276000
+                    },
+                    {
+                        "player": 38854,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1861100
+                    }
+                ],
+                "date": 1760590945,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -113297,9 +115977,333 @@
         ]
     },
     "11432654": {
-        "totalIngresos": 106435600,
-        "totalGastos": 146566360,
+        "totalIngresos": 113606900,
+        "totalGastos": 150213060,
         "transacciones": [
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37450,
+                        "from": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1163600
+                    },
+                    {
+                        "player": 38308,
+                        "from": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 2307500
+                    }
+                ],
+                "date": 1761006043,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 34077,
+                        "from": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1193400
+                    }
+                ],
+                "date": 1760950988,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 9047,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 4307240,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 4299999
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 4004004
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 3899000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 3852100
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 3846421
+                            },
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 3830000
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 3735000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 3727270
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31267,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1523000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 1515151
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 1502100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 37467,
+                        "to": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "amount": 716100,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10352289,
+                                    "name": "Rata de cloaca!",
+                                    "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                                },
+                                "amount": 512790
+                            },
+                            {
+                                "user": {
+                                    "id": 11446725,
+                                    "name": "Jordi el niño culo",
+                                    "icon": "i/u/11446725.png?v=95"
+                                },
+                                "amount": 231191
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 222222
+                            },
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 188350
+                            },
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 185001
+                            }
+                        ]
+                    },
+                    {
+                        "player": 33839,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 1112000
+                    },
+                    {
+                        "player": 2577,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 150000
+                    }
+                ],
+                "date": 1760936781,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 23840,
+                        "from": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1967400
+                    }
+                ],
+                "date": 1760924144,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 2044,
+                        "from": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1703000
+                    }
+                ],
+                "date": 1760868041,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 30505,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1366000
+                    },
+                    {
+                        "player": 25396,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 923650
+                    },
+                    {
+                        "player": 33531,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 853750
+                    }
+                ],
+                "date": 1760850156,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38142,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 160001
+                    },
+                    {
+                        "player": 34077,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 1200050
+                    }
+                ],
+                "date": 1760763705,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -126617,9 +129621,443 @@
         ]
     },
     "11446725": {
-        "totalIngresos": 209579250,
-        "totalGastos": 243737587,
+        "totalIngresos": 220553650,
+        "totalGastos": 274887867,
         "transacciones": [
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 37600,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 3301112,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3222222
+                            }
+                        ]
+                    },
+                    {
+                        "player": 29185,
+                        "to": {
+                            "id": 10368073,
+                            "name": "Los Mijitas",
+                            "icon": "i/u/10368073.png?v=94"
+                        },
+                        "amount": 805111,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432368,
+                                    "name": "Alguien que me diga como va esto",
+                                    "icon": "i/u/11432368.png"
+                                },
+                                "amount": 720050
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 712780
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 662100
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 646000
+                            }
+                        ]
+                    },
+                    {
+                        "player": 18178,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 2914000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10368073,
+                                    "name": "Los Mijitas",
+                                    "icon": "i/u/10368073.png?v=94"
+                                },
+                                "amount": 2901000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 2889000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 2860000
+                            },
+                            {
+                                "user": {
+                                    "id": 10355059,
+                                    "name": "Mágico Gol Norte (Mario Mascota)",
+                                    "icon": "i/u/10355059.png?v=75"
+                                },
+                                "amount": 2802100
+                            }
+                        ]
+                    },
+                    {
+                        "player": 38959,
+                        "to": {
+                            "id": 10352289,
+                            "name": "Rata de cloaca!",
+                            "icon": "https://graph.facebook.com/10209399967337015/picture?height=300&width=300"
+                        },
+                        "amount": 3365550,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 3327130
+                            }
+                        ]
+                    },
+                    {
+                        "player": 31027,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 17091090,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 16820000
+                            },
+                            {
+                                "user": {
+                                    "id": 10370174,
+                                    "name": "Oski Pellegrini",
+                                    "icon": "i/u/10370174.png"
+                                },
+                                "amount": 16543210
+                            },
+                            {
+                                "user": {
+                                    "id": 10352455,
+                                    "name": "Maikelowen",
+                                    "icon": "i/u/10352455.png?v=72"
+                                },
+                                "amount": 16299000
+                            },
+                            {
+                                "user": {
+                                    "id": 10352416,
+                                    "name": "Varguitas plus",
+                                    "icon": "icons/14.png"
+                                },
+                                "amount": 15526450
+                            }
+                        ]
+                    },
+                    {
+                        "player": 12526,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 9793000
+                    },
+                    {
+                        "player": 1125,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 3339000
+                    },
+                    {
+                        "player": 1679,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1999990
+                    }
+                ],
+                "date": 1761022947,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 28309,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 4942500
+                    }
+                ],
+                "date": 1760963581,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38854,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1832700
+                    }
+                ],
+                "date": 1760909082,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 29908,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1214400
+                    }
+                ],
+                "date": 1760874550,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 30505,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1366000
+                    },
+                    {
+                        "player": 25396,
+                        "to": {
+                            "id": 11432654,
+                            "name": "TradeGol",
+                            "icon": "i/u/11432654.png"
+                        },
+                        "amount": 923650
+                    },
+                    {
+                        "player": 33531,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 853750
+                    }
+                ],
+                "date": 1760850156,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38318,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1338800
+                    }
+                ],
+                "date": 1760815276,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38116,
+                        "from": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1646000
+                    }
+                ],
+                "date": 1760774207,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "market",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38116,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1711100
+                    },
+                    {
+                        "player": 33694,
+                        "to": {
+                            "id": 11432368,
+                            "name": "Alguien que me diga como va esto",
+                            "icon": "i/u/11432368.png"
+                        },
+                        "amount": 4910000
+                    },
+                    {
+                        "player": 37898,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 906000,
+                        "bids": [
+                            {
+                                "user": {
+                                    "id": 11432654,
+                                    "name": "TradeGol",
+                                    "icon": "i/u/11432654.png"
+                                },
+                                "amount": 900600
+                            }
+                        ]
+                    },
+                    {
+                        "player": 9557,
+                        "to": {
+                            "id": 10370174,
+                            "name": "Oski Pellegrini",
+                            "icon": "i/u/10370174.png"
+                        },
+                        "amount": 303000
+                    },
+                    {
+                        "player": 31043,
+                        "to": {
+                            "id": 10352416,
+                            "name": "Varguitas plus",
+                            "icon": "icons/14.png"
+                        },
+                        "amount": 2130000
+                    },
+                    {
+                        "player": 29908,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1276000
+                    },
+                    {
+                        "player": 38854,
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1861100
+                    }
+                ],
+                "date": 1760590945,
+                "fixed": false,
+                "author": null
+            },
+            {
+                "type": "transfer",
+                "title": "",
+                "content": [
+                    {
+                        "player": 38318,
+                        "from": {
+                            "id": 10355059,
+                            "name": "Mágico Gol Norte (Mario Mascota)",
+                            "icon": "i/u/10355059.png?v=75"
+                        },
+                        "to": {
+                            "id": 11446725,
+                            "name": "Jordi el niño culo",
+                            "icon": "i/u/11446725.png?v=95"
+                        },
+                        "amount": 1600000
+                    }
+                ],
+                "date": 1760566566,
+                "fixed": false,
+                "author": null
+            },
             {
                 "type": "transfer",
                 "title": "",
@@ -139126,8 +142564,31 @@
     },
     "12627621": {
         "totalIngresos": 56298900,
-        "totalGastos": 102933110,
+        "totalGastos": 103562110,
         "transacciones": [
+            {
+                "type": "clauseIncrement",
+                "title": "",
+                "content": [
+                    {
+                        "user": {
+                            "id": 12627621,
+                            "name": "Abandono C.F.",
+                            "icon": "i/u/12627621.png"
+                        },
+                        "player": 35615,
+                        "amount": 629000,
+                        "releaseClause": 10006000
+                    }
+                ],
+                "date": 1760715891,
+                "fixed": false,
+                "author": {
+                    "id": 12627621,
+                    "name": "Abandono C.F.",
+                    "icon": "i/u/12627621.png"
+                }
+            },
             {
                 "type": "transfer",
                 "title": "",
